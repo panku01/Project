@@ -1,0 +1,17 @@
+.loder{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 20px solid #FFE66D ;
+    border-left: 20px solid #4ECDC4;
+    animation:pnkj 8s steps(5) 0s infinite normal;
+}
+@keyframes pnkj{
+  form  {transform: rotate(0deg);
+
+    }
+    to{
+        transform: rotate(360deg);
+    }
+   
+}
